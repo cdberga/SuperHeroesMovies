@@ -1,4 +1,4 @@
-package superheromovies;
+package com.berga.model.superheromovies;
 
 import java.util.HashSet;
 import java.util.Set;
